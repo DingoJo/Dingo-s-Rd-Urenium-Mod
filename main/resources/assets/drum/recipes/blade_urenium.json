@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  U",
+        " U ",
+        "U  "
+    ],
+
+    "key":
+    { 
+        "U":
+        {
+            "item": "drum:urenium_infused_obsidian"
+        }
+    },
+    
+    "result":
+    {
+        "item": "drum:blade_urenium"
+    }
+}

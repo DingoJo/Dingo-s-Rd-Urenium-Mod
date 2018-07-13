@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GBG",
+        " B ",
+        " G "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:blaze_rod"
+        },
+        
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:handle_gold"
+    }
+}

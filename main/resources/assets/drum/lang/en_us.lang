@@ -1,0 +1,32 @@
+//Container
+container.smelting_forge=Smelting Forge
+
+//Items
+item.obsidian_dust.name=Obsidian Dust
+item.urenium_infused_obsidian.name=Urenium Bar
+item.handle_urenium.name=Urenium Handle
+item.blade_urenium.name=Urenium Blade
+item.handle_gold.name=Gold Handle
+item.blade_emerald.name=Emerald Blade
+
+//Tools
+item.sword_jank.name=The Jank Blade
+item.sword_urenium.name=Urenium Sword
+item.sword_emerald.name=Emerald Sword
+
+item.fallen_meteor.name=Fallen Meteor
+
+item.sword_hard_stone_c.name=Stone Sword of the Centre
+item.sword_hard_stone_n.name=Stone Sword of the North
+item.sword_hard_stone_s.name=Stone Sword of the South
+item.sword_hard_stone_e.name=Stone Sword of the East
+item.sword_hard_stone_w.name=Stone Sword of the West
+item.sword_dimensional_stone.name=Dimensional Stone Sword
+
+//Blocks
+tile.ore_nether_urenium.name=Urenium
+tile.smelting_forge.name=Smelting Forge
+tile.crafting_anvil.name=Crafting Anvil
+
+//Enchantments
+enchantment.poison=Poison

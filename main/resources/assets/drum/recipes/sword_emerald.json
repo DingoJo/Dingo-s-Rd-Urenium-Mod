@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  B",
+        " B ",
+        "H  "
+    ],
+
+    "key":
+    { 
+        "B":
+        {
+            "item": "ds:blade_emerald"
+        },
+        
+        "H":
+        {
+            "item": "ds:handle_gold"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:sword_emerald"
+    }
+}

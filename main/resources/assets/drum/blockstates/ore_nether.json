@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=urenium": { "model": "drum:ore_nether_urenium" }
+    }
+}

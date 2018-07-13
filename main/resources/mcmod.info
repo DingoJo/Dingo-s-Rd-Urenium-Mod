@@ -1,0 +1,16 @@
+[
+{
+  "modid": "drum",
+  "name": "Dingo's RD Urenium Mod",
+  "description": "Hi, my name is DingoJo. I have created this mod with inspiration from a YouTuber by the name of RenDog! He is one of my favourite YouTubers, and I have decided to create a mod of a block that he recreated after the magma block called Urenium! And now, IT'S AN ACTUAL BLOCK!! And it can do allot of cool things. :D This mod also adds some other stuff RenDog has made up as well!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://www.youtube.com/channel/UCNOAq_ddOOtoaXILljyUI0g/featured?view_as=subscriber",
+  "updateUrl": "",
+  "authorList": ["DingoJo64"],
+  "credits": "A small YouTuber, me, DingoJo, has made this mod and hopes to expand it with the help of other people! :D",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

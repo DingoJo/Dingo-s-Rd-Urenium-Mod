@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "LOL",
+        "LOL"
+    ],
+
+    "key":
+    { 
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "U":
+        {
+            "item": "drum:urenium_infused_obsidian"
+        },
+        
+        "L":
+        {
+            "item": "minecraft:leather"
+        }
+    },
+    
+    "result":
+    {
+        "item": "drum:handle_urenium"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ONO",
+        "WCE",
+        "YSY"
+    ],
+
+    "key":
+    { 
+        "C":
+        {
+            "item": "ds:sword_hard_stone_c"
+        },
+        
+        "N":
+        {
+            "item": "ds:sword_hard_stone_n"
+        },
+        
+        "S":
+        {
+            "item": "ds:sword_hard_stone_s"
+        },
+        
+         "E":
+        {
+            "item": "ds:sword_hard_stone_e"
+        },
+         
+        "W":
+        {
+            "item": "ds:sword_hard_stone_w"
+        },
+        
+        "O":
+        {
+            "item": "ds:obsidian_dust"
+        },
+        
+        "Y":
+        {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ds:sword_dimensional_stone"
+    }
+}

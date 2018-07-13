@@ -1,0 +1,13 @@
+{
+    "parent": "block/orientable",
+    "textures": 
+    {
+        "particle": "drum:blocks/smelting_forge_front_off",
+        "up": "drum:blocks/smelting_forge_top",
+        "down": "drum:blocks/smelting_forge_bottom",
+        "north": "drum:blocks/smelting_forge_front_on",
+        "east": "drum:blocks/smelting_forge_side",
+        "south": "drum:blocks/smelting_forge_side",
+        "west": "drum:blocks/smelting_forge_side"
+    }
+}

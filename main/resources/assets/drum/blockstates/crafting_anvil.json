@@ -1,0 +1,12 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": {
+            "model": "drum:crafting_anvil"
+        },
+        "inventory": {
+            "model": "drum:crafting_anvil",
+            "transform": "forge:default-block"
+        }
+    }
+}
